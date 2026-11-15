@@ -89,7 +89,7 @@
         <p>Email: christianbriines@email.com</p>
         <p>
             Facebook:
-            <a href="https://facebook.com/" style="color:#38bdf8;">Christian Jerome Briones</a>
+            <a href="https://facebook.com/" style="color:#38bdf8;">christian.jerome.briones</a>
         </p>
         <p>
             Instagram:
