@@ -14,8 +14,8 @@
             <h2 style="color:#38bdf8;">My Portfolio</h2>
             <a href="#home" style="color:white; margin-right:15px;">Home</a>
             <a href="#about" style="color:white; margin-right:15px;">About</a>
-            <a href="#skills" style="color:white; margin-right:15px;">Skills</a>
-            <a href="#projects" style="color:white; margin-right:15px;">Projects</a>
+            <a href="#personal info" style="color:white; margin-right:15px;">Skills</a>
+            <a href="#hobbies" style="color:white; margin-right:15px;">Projects</a>
             <a href="#contact" style="color:white;">Contact</a>
         </nav>
     </header>
@@ -38,25 +38,23 @@
         </p>
         <p>
             My goal is to gain knowledge, experience, and skills
-            that will help me achieve my dreams.
+            that will help me achieve my dreams and also honoring foods.
         </p>
     </section>
 
-    <!-- Skills -->
-    <section id="skills" style="padding:60px 10%;">
-        <h2 style="color:#38bdf8;">My Skills</h2>
+    <!-- Personal Info-->
+    <section id="Personal info" style="padding:60px 10%;">
+        <h2 style="color:#38bdf8;">My info</h2>
         <ul>
-            <li>Communication</li>
-            <li>Teamwork</li>
-            <li>Problem Solving</li>
-            <li>Creativity</li>
-            <li>Time Management</li>
-            <li>Critical Thinking</li>
+            <li>08/04/2007</li>
+            <li>5'0</li>
+            <li>47kg</li>
+            <li>NGSB</li>
         </ul>
     </section>
 
     <!-- Hobbies -->
-    <section id="projects" style="padding:60px 10%; background:#1e293b;">
+    <section id="hobbies" style="padding:60px 10%; background:#1e293b;">
         <h2 style="color:#38bdf8;">My Hobbies</h2>
 
         <div style="background:#334155; padding:20px; margin:15px 0; border-radius:10px;">
